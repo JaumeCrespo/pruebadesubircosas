@@ -1,0 +1,4 @@
+phyton,profesor,2024,escuela
+pa,po,po,po
+la colmena,cela,23,2222
+teo va al parque,teo,2021,niñosteo va al parque
